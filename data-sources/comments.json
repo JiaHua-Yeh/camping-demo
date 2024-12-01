@@ -17,9 +17,21 @@
         "content": "空氣非常好",
         "publishedDate": "2024/12/01",
         "rating": 5,
-        "reply_comments": "",
+        "reply_comments": "非常感謝您的讚美之詞！蟬說：山中靜靜的空氣確實清新宜人，讓人在這裡放鬆身心、享受大自然的寧靜。我們會繼續努力，為所有來訪的貴賓提供更好的露營體驗。再次感謝您的支持與肯定！",
         "publishedDateDesc": "今天",
         "text": "空氣",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "116701918203165234474",
+        "author": "渼榛陳（Angela）",
+        "content": "風景很美",
+        "publishedDate": "2024/12/01",
+        "rating": 5,
+        "reply_comments": "",
+        "publishedDateDesc": "今天",
+        "text": "風景美",
         "label": 2,
         "predict": 2
     },
