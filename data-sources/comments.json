@@ -5,10 +5,34 @@
         "content": "很漂亮的地方，輕鬆愜意",
         "publishedDate": "2024/12/07",
         "rating": 5,
-        "reply_comments": "",
+        "reply_comments": "親愛的貴賓您好，感謝您對「蟬說：山中靜靜」露營地的美好評價。我們非常感激您能花時間分享您的經驗，並且對我們的服務有如此正面的評價。您的讚賞是我們持續改進服務的動力，我們將繼續努力，為所有來訪的貴賓提供更好的露營體驗。再次感謝您的支持與肯定！",
         "publishedDateDesc": "今天",
         "text": "很漂亮輕鬆愜意",
         "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "109663885831226710517",
+        "author": "廖俐婷",
+        "content": "很放鬆",
+        "publishedDate": "2024/12/07",
+        "rating": 5,
+        "reply_comments": "",
+        "publishedDateDesc": "今天",
+        "text": "放鬆",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "116003704634434307487",
+        "author": "An Syu Lee",
+        "content": "適合放鬆跟放空的旅程",
+        "publishedDate": "2024/12/07",
+        "rating": 3,
+        "reply_comments": "",
+        "publishedDateDesc": "今天",
+        "text": "適合放鬆放空旅程",
+        "label": 1,
         "predict": 2
     },
     {
