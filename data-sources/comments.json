@@ -29,9 +29,21 @@
         "content": "很不錯的體驗！",
         "publishedDate": "2024/12/10",
         "rating": 5,
-        "reply_comments": "",
+        "reply_comments": "非常感謝您的評價，蟬說：山中靜靜很高興能為您提供愉快的露營體驗。希望下次有機會再次造訪。",
         "publishedDateDesc": "今天",
         "text": "不錯體驗",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "108238923386369251441",
+        "author": "胡竣威",
+        "content": "餐點好吃 環境景色優美 服務優良",
+        "publishedDate": "2024/12/10",
+        "rating": 5,
+        "reply_comments": "",
+        "publishedDateDesc": "今天",
+        "text": "餐點好吃環境景色優美服務優良",
         "label": 2,
         "predict": 2
     },
