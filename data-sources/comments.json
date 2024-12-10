@@ -41,9 +41,21 @@
         "content": "餐點好吃 環境景色優美 服務優良",
         "publishedDate": "2024/12/10",
         "rating": 5,
-        "reply_comments": "",
+        "reply_comments": "親愛的貴賓您好，感謝您對「蟬說：山中靜靜」露營地的美好評價。很高興聽到您喜歡我們的餐點、環境景色和服務。這些正面的回饋將會激勵我們的團隊繼續努力，為未來的貴賓提供更好的體驗。如果您有任何建議或意見，歡迎隨時與我們分享。再次感謝您的支持，也期待下次能為您服務。",
         "publishedDateDesc": "今天",
         "text": "餐點好吃環境景色優美服務優良",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "112708315414728332054",
+        "author": "Alice",
+        "content": "超級好玩還可以手作！",
+        "publishedDate": "2024/12/10",
+        "rating": 5,
+        "reply_comments": "",
+        "publishedDateDesc": "今天",
+        "text": "超級好玩手作",
         "label": 2,
         "predict": 2
     },
