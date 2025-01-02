@@ -1,5 +1,41 @@
 ﻿[
     {
+        "author_id": "113111944362755724726",
+        "author": "0816 bruce",
+        "content": "一百分",
+        "publishedDate": "2025/01/02",
+        "rating": 5,
+        "reply_comments": "非常感謝您的評價！蟬說：山中靜靜很高興能為您提供愉快的露營體驗，我們會繼續努力，為所有前來的貴賓提供更好的服務和環境。希望您下次有機會再次光臨蟬說：山中靜靜！",
+        "publishedDateDesc": "今天",
+        "text": "一百分",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "106858073199160539730",
+        "author": "Huang Ching",
+        "content": "環境乾淨！",
+        "publishedDate": "2025/01/02",
+        "rating": 5,
+        "reply_comments": "非常感謝您對蟬說：山中靜靜的肯定與支持，我們會繼續努力，提供更好的露營體驗給每一位貴賓。",
+        "publishedDateDesc": "今天",
+        "text": "環境乾淨",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "103760567131527860697",
+        "author": "陳文儀",
+        "content": "景很漂亮，環境也都很好很乾淨，餐點也都很好吃，無可挑剔，推推！",
+        "publishedDate": "2025/01/02",
+        "rating": 5,
+        "reply_comments": "親愛的貴賓，您對蟬說：山中靜靜的評價我們非常感激，也很高興您在此度過了愉快的時光。您的滿意是我們最大的動力，期待您未來再次光臨蟬說：山中靜靜，體驗我們提供的優質服務與環境。",
+        "publishedDateDesc": "今天",
+        "text": "景很漂亮環境乾淨餐點好吃無可挑剔推推",
+        "label": 2,
+        "predict": 2
+    },
+    {
         "author_id": "102311710817332554351",
         "author": "佟顯榮",
         "content": "很舒服 很放鬆😎 下次會再帶多一點人一起來",
