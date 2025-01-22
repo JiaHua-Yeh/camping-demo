@@ -1,5 +1,65 @@
 ﻿[
     {
+        "author_id": "102636373898950128884",
+        "author": "alanis wen",
+        "content": "房間舒適乾淨，夕陽很美",
+        "publishedDate": "2025/01/22",
+        "rating": 5,
+        "reply_comments": "非常感謝您對蟬說：山中靜靜的美好評價！我們很高興您能在這裡度過一個舒適愉快的時光，享受夕陽美景。如果您下次有機會再來，我們將竭誠為您服務。",
+        "publishedDateDesc": "今天",
+        "text": "房間舒適乾淨夕陽美",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "101191442389836236955",
+        "author": "王品婕",
+        "content": "氣氛很棒 適合團體聚會😍",
+        "publishedDate": "2025/01/22",
+        "rating": 5,
+        "reply_comments": "非常感謝您對蟬說：山中靜靜的美好評價！我們很高興您喜歡我們營地的氣氛，覺得適合團體聚會。期待您下次再次光臨，與更多朋友一起在這裡度過美好時光。",
+        "publishedDateDesc": "今天",
+        "text": "氣氛很棒適合團體聚會😍",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "102132823044703992509",
+        "author": "yajun Yang",
+        "content": "好美的地方，期待下一次再來訪",
+        "publishedDate": "2025/01/22",
+        "rating": 5,
+        "reply_comments": "非常感謝您的讚美！蟬說：山中靜靜一直以來都致力於為貴賓們提供一個舒適、寧靜的環境，讓您在忙碌的生活中能夠找到短暫的放鬆。很高興您喜歡我們的露營地，並期待下次再次造訪。蟬說：山中靜靜也將繼續努力，為貴賓們創造更美好的露營體驗。期待您的再次光臨！",
+        "publishedDateDesc": "今天",
+        "text": "美的期待來訪",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "112712045113209326836",
+        "author": "bluechenblue",
+        "content": "環境很棒",
+        "publishedDate": "2025/01/22",
+        "rating": 5,
+        "reply_comments": "非常感謝您對蟬說：山中靜靜的美好評價！我們非常高興您喜歡我們的環境。作為一個致力於提供優質露營體驗的團隊，我們會繼續努力，確保我們的客人在我們這裡度過愉快的時光。如果您未來還有機會來訪，歡迎隨時與我們聯繫。再次感謝您的支持與鼓勵！",
+        "publishedDateDesc": "今天",
+        "text": "環境很棒",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "117500939687926931635",
+        "author": "hsien",
+        "content": "很舒服～廁所大很乾淨",
+        "publishedDate": "2025/01/22",
+        "rating": 5,
+        "reply_comments": "非常感謝您對蟬說：山中靜靜的好評！我們很高興您喜歡我們的廁所和整潔度。希望您在蟬說：山中靜靜度過了一個愉快的時光，期待下次再見！",
+        "publishedDateDesc": "今天",
+        "text": "舒服廁所乾淨",
+        "label": 2,
+        "predict": 2
+    },
+    {
         "author_id": "115536719757575422801",
         "author": "Evan Liu",
         "content": "食物非常好，是一次非常特別的體驗",
