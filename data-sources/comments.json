@@ -1,5 +1,29 @@
 ﻿[
     {
+        "author_id": "114814649649782705100",
+        "author": "金毓正",
+        "content": "不錯喔…",
+        "publishedDate": "2025/02/18",
+        "rating": 5,
+        "reply_comments": "很抱歉，根據您提供的評論內容，我無法回答您的問題。請您提供更多詳細的資訊。",
+        "publishedDateDesc": "今天",
+        "text": "不錯喔",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "107732803808489023623",
+        "author": "李小玲",
+        "content": "很讚的營區👍",
+        "publishedDate": "2025/02/18",
+        "rating": 5,
+        "reply_comments": "非常感謝您的讚賞！蟬說：山中靜靜很高興能為您提供一個愉快的露營體驗。我們會繼續努力，為所有前來露營的貴賓們創造更優質的服務和設施。再次感謝您的支持與肯定，希望您下次有機會再次光臨蟬說：山中靜靜！",
+        "publishedDateDesc": "今天",
+        "text": "讚營區👍",
+        "label": 2,
+        "predict": 2
+    },
+    {
         "author_id": "106433136944591611768",
         "author": "Nick Wang",
         "content": "環境很好 天氣好風景超美 餐點也不錯 服務很熱情 可以找他們佈置（材料自行處理）",
