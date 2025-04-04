@@ -24,6 +24,30 @@
         "predict": 2
     },
     {
+        "author_id": "108526462878937595863",
+        "author": "蔡孟珊",
+        "content": "很棒的環境，讓人非常放鬆。",
+        "publishedDate": "2025/04/04",
+        "rating": 5,
+        "reply_comments": "非常感謝您的評價！我們很高興蟬說：山中靜靜能夠提供一個讓您放鬆身心的環境。期待您下次再度光臨！",
+        "publishedDateDesc": "今天",
+        "text": "很棒環境放鬆",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "107916983103274735967",
+        "author": "chihsuan Lee",
+        "content": "剛好天氣很棒，晚餐、早餐都非常好吃。景色也很棒！",
+        "publishedDate": "2025/04/04",
+        "rating": 5,
+        "reply_comments": "非常感謝您對蟬說：山中靜靜的美好評價！我們很高興您喜歡這裡的天氣、晚餐、早餐和美景。希望有機會再次歡迎您來到蟬說：山中靜靜，體驗更多這裡的美好。",
+        "publishedDateDesc": "今天",
+        "text": "天氣很棒晚餐早餐好吃景色很棒",
+        "label": 2,
+        "predict": 2
+    },
+    {
         "author_id": "106688170115928711613",
         "author": "李卓寧",
         "content": "景色宜人，非常舒服，適合放鬆身心",
