@@ -1,5 +1,29 @@
 ﻿[
     {
+        "author_id": "110237937453733174845",
+        "author": "Isabelle li",
+        "content": "很不錯的體驗，適合帶小朋友和寵物來。",
+        "publishedDate": "2025/04/04",
+        "rating": 5,
+        "reply_comments": "非常感謝您的美言，我們將繼續努力，為大家提供更好的服務和體驗。",
+        "publishedDateDesc": "今天",
+        "text": "不錯體驗適合小朋友寵物",
+        "label": 2,
+        "predict": 2
+    },
+    {
+        "author_id": "101567832211602730935",
+        "author": "214-11-劉哲綸",
+        "content": "環境清幽、設備乾淨、服務態度良好，整體感受很好",
+        "publishedDate": "2025/04/04",
+        "rating": 5,
+        "reply_comments": "非常感謝您對蟬說：山中靜靜的美好評價，我們將繼續努力，提供更優質的服務和設施，讓您下次來訪時能有更愉快的體驗。再次感謝您的支持與肯定。",
+        "publishedDateDesc": "今天",
+        "text": "環境清幽設備乾淨服務態度整體感受",
+        "label": 2,
+        "predict": 2
+    },
+    {
         "author_id": "106688170115928711613",
         "author": "李卓寧",
         "content": "景色宜人，非常舒服，適合放鬆身心",
